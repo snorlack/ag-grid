@@ -52,7 +52,7 @@
     "jquery": "3.5.1",
     "node-sass": "4.14.1",
     "popper.js": "1.16.1",
-    "prismjs": "1.22.0",
+    "prismjs": "1.24.0",
     "public-ip": "4.0.3",
     "query-string": "5.1.1",
     "react": "16.14.0",
